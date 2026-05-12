@@ -1,0 +1,34 @@
+# Research, reports, local notes
+R&D/
+tools/
+skills/
+.video_sheets/
+.idea/
+MASTER_PROJECT_DOCUMENT_AI_SPORTS_TALENT_ASSESSMENT.txt
+PROJECT_MAINTENANCE_LOG.md
+PROJECT_STATE_AUDIT.md
+QUICK_START.md
+SHOWCASE_EXECUTION.md
+SRS.txt
+
+# Frontend generated/local files
+sports-assessment-frontend/node_modules/
+sports-assessment-frontend/dist/
+sports-assessment-frontend/skills/
+sports-assessment-frontend/.env
+sports-assessment-frontend/.env.*
+
+# Backend generated/local files
+sports-assessment-backend/__pycache__/
+sports-assessment-backend/**/__pycache__/
+sports-assessment-backend/.pytest_cache/
+sports-assessment-backend/uploads/
+sports-assessment-backend/assessment.db
+sports-assessment-backend/*.db
+sports-assessment-backend/.env
+sports-assessment-backend/.env.*
+
+# OS/editor noise
+Thumbs.db
+.DS_Store
+*.log
